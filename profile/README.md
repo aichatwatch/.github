@@ -6,6 +6,18 @@
 
 ### Open-Source Tools
 
+#### [AICW Skills](https://github.com/aicw-io/aicw-skills)
+
+**Apply the AI search book to your local website with a coding agent.** Six skills cover content intent, page JSON-LD, technical audits, monitoring, search submissions, and the complete optimization workflow. Use them with HTML, Astro, and local WordPress projects.
+
+The skills follow all 25 checklist items in Eugene Mironichev's [AI Search Engine Optimization Guide](https://aicw.io/books/ai-seo-guide/). Each includes its own audit scripts and book references in the Agent Skills format.
+
+```sh
+npx skills add aicw-io/aicw-skills --skill '*'
+```
+
+[Get the skills and installation instructions](https://github.com/aicw-io/aicw-skills) · [Read the book free](https://aicw.io/books/ai-seo-guide/)
+
 #### AICW AI Mentions 
 (former AICW Rankings)
 
