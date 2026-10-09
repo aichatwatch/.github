@@ -13,8 +13,10 @@
 The skills follow all 25 checklist items in Eugene Mironichev's [AI Search Engine Optimization Guide](https://aicw.io/books/ai-seo-guide/). Each includes its own audit scripts and book references in the Agent Skills format.
 
 ```sh
-npx skills add aicw-io/aicw-skills --skill '*'
+npx skills add aicw-io/aicw-skills
 ```
+
+Choose your skills and coding agent in the installer.
 
 [Get the skills and installation instructions](https://github.com/aicw-io/aicw-skills) · [Read the book free](https://aicw.io/books/ai-seo-guide/)
 
