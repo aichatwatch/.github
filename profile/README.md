@@ -1,6 +1,6 @@
-# AICW — Advanced Insights Content & Web
+# AI Chat Watch (AICW)
 
-**[www.aicw.io](https://www.aicw.io)** — **A**dvanced **I**nsights **C**ontent & **W**eb
+**[www.aichatwatch.com](https://www.aichatwatch.com)**
 
 ---
 
