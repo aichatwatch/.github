@@ -6,20 +6,6 @@
 
 ### Open-Source Tools
 
-#### [AICW Skills](https://github.com/aichatwatch/aicw-skills)
-
-**Apply the AI search book to your website with a coding agent.** Six skills cover content intent, page JSON-LD, technical audits, monitoring, search submissions, and the complete optimization workflow. Use local files, a public URL, or a CMS connector available to your agent.
-
-The skills follow all 25 checklist items in Eugene Mironichev's [AI Search Engine Optimization Guide](https://aichatwatch.com/books/ai-seo-guide/). Each includes its own audit scripts and book references in the Agent Skills format.
-
-```sh
-npx skills add aichatwatch/aicw-skills
-```
-
-Choose your skills and coding agent in the installer.
-
-[Get the skills and installation instructions](https://github.com/aichatwatch/aicw-skills) · [Read the book free](https://aichatwatch.com/books/ai-seo-guide/)
-
 #### AICW AI Mentions
 (former AICW Rankings)
 
@@ -28,14 +14,6 @@ Choose your skills and coding agent in the installer.
 GitHub repository: <https://github.com/aichatwatch/aicw-ai-mentions>
 
 Website: <https://aichatwatch.com/aicw-ai-mentions/>
-
-#### AICW Visibility
-
-**Utility to scan and score given URL to measure how well it is visible to AI**: from robots.txt to whether this link is captured in large datasets for LLM models training. Use as an AI Agent via MCP from ChatGPT, Claude on your computer, or run as a standalone tool.
-
-GitHub repository: <https://github.com/aichatwatch/aicw-visibility>
-
-Website: <https://aichatwatch.com/aicw-visibility/>
 
 #### AICW Video
 
